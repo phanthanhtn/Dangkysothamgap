@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Đăng ký Thăm gặp Tự động",
+  "description": "Hệ thống khai báo thông tin, kiểm tra điều kiện và cấp số thứ tự thăm gặp can phạm nhân tự động cho Trại tạm giam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
